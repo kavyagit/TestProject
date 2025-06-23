@@ -1,0 +1,6 @@
+#Script Name: .gitlab-ci.yml
+#
+# Description: testproject pipleline
+
+include:
+-project: 'test-branch'
